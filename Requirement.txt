@@ -1,0 +1,15 @@
+The application should run from the command line, accept user actions and inputs as arguments, and store the tasks in a JSON file.
+
+-> Create Task
+-> Update Task (Update Status of Task)
+-> Delete Task
+-> Retrieve Task (All, Based on Status)
+
+Use the native file system module of your programming language to interact with the JSON file.
+
+Task Properties
+id: 			A unique identifier for the task
+description: 	A short description of the task
+status: 		The status of the task (todo, in-progress, done)
+createdAt: 		The date and time when the task was created
+updatedAt: 		The date and time when the task was last updated
