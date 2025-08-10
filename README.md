@@ -24,7 +24,7 @@ Clone the repository to your local machine:
 
 Bash
 
-git clone https://github.com/your-username/task-tracker.git
+git clone https://github.com/Mental0075/Task-Tracker-Python.git
 Navigate to the project directory:
 
 Bash
