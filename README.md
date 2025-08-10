@@ -2,7 +2,7 @@
 Task Tracker Project
 A simple command-line task management application built in Python. This project allows users to create, track, and manage their daily tasks directly from the terminal.
 
-Features
+# Features
 Add Tasks: Create new tasks with a description.
 
 Update Status: Change a task's status to "Todo", "In Progress", or "Completed".
@@ -13,29 +13,29 @@ View Tasks: Display tasks filtered by status (All, Todo, In Progress, Completed)
 
 Data Persistence: All tasks are stored in a task_tracker.json file to save your progress between sessions.
 
-Getting Started
+# Getting Started
 These instructions will get you a copy of the project up and running on your local machine.
 
-Prerequisites
+# Prerequisites
 You need Python 3.6 or higher installed on your system.
 
-Installation
+# Installation
 Clone the repository to your local machine:
 
-Bash
+# Bash
 
 git clone https://github.com/Mental0075/Task-Tracker-Python.git
 Navigate to the project directory:
 
-Bash
+# Bash
 
 cd task-tracker
 The project uses only standard Python libraries (datetime, random, json, os), so no additional installation is required.
 
-Usage
+# Usage
 To run the application, simply execute the main script from your terminal:
 
-Bash
+# Bash
 
 python3 task_manager.py
 After running the command, a menu will be displayed with options to manage your tasks.
