@@ -38,7 +38,7 @@ python3 task_manager.py
 After running the command, a menu will be displayed with options to manage your tasks.
 
 # File Structure
-task_manager.py: The main script containing the application logic.
+task.py: The main script containing the application logic.
 
 task_tracker.json: The JSON file used to store task data.
 
