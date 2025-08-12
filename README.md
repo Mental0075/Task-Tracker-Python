@@ -1,3 +1,6 @@
+# Project Page URL
+https://github.com/Mental0075/Task-Tracker-Python
+
 # Task-Tracker-Python
 Task Tracker Project
 A simple command-line task management application built in Python. This project allows users to create, track, and manage their daily tasks directly from the terminal.
