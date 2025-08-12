@@ -1,5 +1,5 @@
 # Project Page URL
-https://github.com/Mental0075/Task-Tracker-Python
+Task-Tracker-Python
 
 # Task-Tracker-Python
 Task Tracker Project
